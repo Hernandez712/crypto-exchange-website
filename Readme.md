@@ -30,7 +30,7 @@
   
 </details>
 
-![line](https://github.com/Hernandez712/legendary-barnacle/blob/main/line.gif?raw=true)
+![line](https://github.com/Hernandez712/crypto-exchange-website/blob/main/line.gif?raw=true)
 
   Contact me to get demo access to website 
 
@@ -38,7 +38,7 @@
 
   Email: shellario@protonmail.com
   
-![line](https://github.com/Hernandez712/legendary-barnacle/blob/main/line.gif?raw=true)
+![line](https://github.com/Hernandez712/crypto-exchange-website/blob/main/line.gif?raw=true)
 
 🌐 Admin panel (two themes, light and dark):
 
